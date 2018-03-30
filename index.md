@@ -52,3 +52,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<ul class="example-nav js-examples-nav">
+  <li><a href="#" class="selected" data-container-id="example-text" data-proofer-ignore="">Text</a></li>
+  <li><a href="#" data-container-id="example-lists" data-proofer-ignore="">Lists</a></li>
+  <li><a href="#" data-container-id="example-images" data-proofer-ignore="">Images</a></li>
+  <li><a href="#" data-container-id="example-headers" data-proofer-ignore="">Headers &amp; Quotes</a></li>
+  <li><a href="#" data-container-id="example-code" data-proofer-ignore="">Code</a></li>
+  <li><a href="#" data-container-id="example-extras" data-proofer-ignore="">Extras</a></li>
+</ul>
+
+<div class="markdown-example" id="example-text">
+<pre class="source">
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even <span style="white-space:nowrap">[link to Google!](http://google.com)</span>
+</pre>
+<div class="rendered">
+It's very easy to make some words <strong>bold</strong> and other words <em>italic</em> with Markdown. You can even <a href="http://google.com">link to Google!</a>
+</div>
+</div>

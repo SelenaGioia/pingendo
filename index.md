@@ -53,6 +53,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+<p><a id="examples" title="Examples" class="toc-item"></a></p>
+
+<h2>Examples</h2>
+
 <ul class="example-nav js-examples-nav">
   <li><a href="#" class="selected" data-container-id="example-text" data-proofer-ignore="">Text</a></li>
   <li><a href="#" data-container-id="example-lists" data-proofer-ignore="">Lists</a></li>

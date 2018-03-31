@@ -10,10 +10,10 @@ RNDS is designed to sense if the users are in their rooms,and to detect the nois
  Flatmates will also see each other statuses and get a daily feedback depending on how much they have respected others' status;
 
 
-# Group members
-Selena Gioia, selena.gioia@gmail.com, SelenaGioia, sw designer<br>
-Andrea Caria, andreamarco.caria@gmail.com, andreacaria, physical designer<br>
-Aleksa Velickovic, s254814@studenti.polito.it, aleksave55, sw developer<br>
+## Group members
+Selena Gioia, selena.gioia@gmail.com, SelenaGioia, sw designer <br>
+Andrea Caria, andreamarco.caria@gmail.com, andreacaria, physical designer <br>
+Aleksa Velickovic, s254814@studenti.polito.it, aleksave55, sw developer <br>
 
 
 

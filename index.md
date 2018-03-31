@@ -1,4 +1,5 @@
 ## ROOM NOISE DETECTION (RNDS)
+
 # Description
 Sharing a flat with other students can sometimes be difficult: different flatmates can have different schedules, and, furthermore, each person may have his own personal habits. It is not always simple to tell others we cannot perform our tasks because they are being too noisy, especially if we don’t know them well enough: this can be a cause of stress. Our system is designed to solve this issues, making cohabitation easy: it is an intelligence system able to understand and react to users needs, pairing every user demands with the urges of other flatmates.<br>
 The user will be able to interact with the system: he may update his status by either choosing from a list of preset ones (e.g. "Please do not disturb I'm sleeping/studying" or "I'm not home") or personalize his own based on already existing models. The user can also set his preferences for each status (es: decide which is the level of noise that disturbs him, decide if he likes to sleep with light or in the dark, decide if he likes ambient music to cover other eventual noise from others)
@@ -8,6 +9,11 @@ RNDS is designed to sense if the users are in their rooms,and to detect the nois
 - to react to a sleeping tenant, dimmering the lights in the hallway and in his bedroom, closing blinds in the room, and playing some sleeping music, depending his preferences
  Flatmates will also see each other statuses and get a daily feedback depending on how much they have respected others' status;
 
+
+# Group members
+Selena Gioia, selena.gioia@gmail.com, SelenaGioia, sw designer<br>
+Andrea Caria, andreamarco.caria@gmail.com, andreacaria, physical designer<br>
+Aleksa Velickovic, s254814@studenti.polito.it, aleksave55, sw developer<br>
 
 
 

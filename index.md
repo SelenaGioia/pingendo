@@ -19,10 +19,10 @@ Andrea Caria, andreamarco.caria@gmail.com, @andreacaria, physical designer <br>
 Aleksa Velickovic, s254814@studenti.polito.it, @aleksave55, sw developer <br>
 
 ## AmI main steps
-Sensing
-Reasoning
-Acting
-Interacting
+Sensing<br>
+Reasoning<br>
+Acting<br>
+Interacting<br>
 
 ## AmI features @aleksave55
 Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
@@ -37,21 +37,26 @@ It is also acceptable that some features are not developed in your specific proj
 | Ubiquitous  | ...      |
 | Intelligent  | ... |
 
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
+###### [](#header-6)AmI features @aleksave55
+Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
+Some features may be more important than others, this is normal and depends on the project.
+It is also acceptable that some features are not developed in your specific project.
+| Feature        | Description          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Sensitive           | good swedish fish | nice  |
+| Responsive | good and plenty   | nice  |
+| Adaptive           | good `oreos`      | hmm   |
+| Transparent           | good `zoute` drop | yumm  |
 
-
- ## Open issues
-- [ ] @Selena, add here sw issues
-- [ ] @Andrea, add here hw issues
+## Open issues
+- [ ] @SelenaGioia, add here sw issues
+- [ ] Understand where come from the noise that I have detect in a specific room : inside of this room, from other rooms of the house (which one?), from the outside of the house.
+- [ ]The noise that I have detect in the user room fit his status preference or not.
+- [ ]Do not take into account the short term noise and background noise.
+- [ ]Detect if the door, windows and blinds are open or close.
 - [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [ ] example of incomplete item
+
 
 # These are justexamples and will be delited before the 6th
 

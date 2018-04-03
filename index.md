@@ -37,22 +37,14 @@ It is also acceptable that some features are not developed in your specific proj
 | Ubiquitous  | ...      |
 | Intelligent  | ... |
 
-###### [](#header-6)AmI features @aleksave55
-Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
-Some features may be more important than others, this is normal and depends on the project.
-It is also acceptable that some features are not developed in your specific project.
-| Feature        | Description          | three |
-|:-------------|:------------------|:------|
-| Sensitive           | good swedish fish | nice  |
-| Responsive | good and plenty   | nice  |
-| Adaptive           | good `oreos`      | hmm   |
-| Transparent           | good `zoute` drop | yumm  |
+###### [](#header-6)Header 6
 
-## Open issues
-- [ ] @SelenaGioia, add here sw issues
-- [ ] @andreacaria, add here hw issues
-- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [ ] example of incomplete item
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 # These are justexamples and will be delited before the 6th

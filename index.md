@@ -46,6 +46,8 @@ It is also acceptable that some features are not developed in your specific proj
 - [ ] How to control windows, doors, blinds
 - [ ] How to control tv, stereo and other noisy devices
 
+  ***
+
 ## Group members
 
 | NAME              | EMAIL                       | GITHUB USERNAME | ROLE IN THE PROJECT |

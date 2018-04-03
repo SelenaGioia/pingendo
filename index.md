@@ -14,9 +14,12 @@ RNDS is designed to sense if the users are in their rooms,and to detect the nois
 
 
 ## Group members
-Selena Gioia, selena.gioia@gmail.com, @SelenaGioia, sw designer <br>
-Andrea Caria, andreamarco.caria@gmail.com, @andreacaria, physical designer <br>
-Aleksa Velickovic, s254814@studenti.polito.it, @aleksave55, sw developer <br>
+| name       | email           | github user|role in project|
+|:-------------|:------------------|:------|
+|     Selena Gioia      |selena.gioia@gmail.com | @SelenaGioia  |sw designer|
+| Andrea Caria | andreamarco.caria@gmail.com |  @andreacaria|physical designer|
+|  Aleksa Velickovic      |  s254814@studenti.polito.it |  @aleksave55  |sw developer|
+
 
 ## AmI main steps
 Sensing<br>

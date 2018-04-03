@@ -14,9 +14,9 @@ RNDS is designed to sense if the users are in their rooms,and to detect the nois
 
 
 ## Group members
-Selena Gioia, selena.gioia@gmail.com, SelenaGioia, sw designer <br>
-Andrea Caria, andreamarco.caria@gmail.com, andreacaria, physical designer <br>
-Aleksa Velickovic, s254814@studenti.polito.it, aleksave55, sw developer <br>
+Selena Gioia, selena.gioia@gmail.com, @SelenaGioia, sw designer <br>
+Andrea Caria, andreamarco.caria@gmail.com, @andreacaria, physical designer <br>
+Aleksa Velickovic, s254814@studenti.polito.it, @aleksave55, sw developer <br>
 
 ## AmI main steps
 Sensing
@@ -24,14 +24,10 @@ Reasoning
 Acting
 Interacting
 
-## AmI features @Aleksa
+## AmI features @aleksave55
 Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 Feature - Description
 ------------ | -------------
@@ -43,10 +39,10 @@ Ubiquitous | ...
 Intelligent | ...
 
 ## Open issues
-[ ] @Selena, add here sw issues
-[ ] @Andrea, add here hw issues
-[x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
-[ ] example of incomplete item
+- [ ] @SelenaGioia, add here sw issues
+- [ ] @andreacaria, add here hw issues
+- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] example of incomplete item
 
 
 # These are justexamples and will be delited before the 6th

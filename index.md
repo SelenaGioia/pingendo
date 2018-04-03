@@ -23,24 +23,15 @@ Describe which AmI features are developed by your project. Be synthetic, one/two
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
 | Feature        | Description          |
-|:-------------|:------------------|
-| Sensitive           | ... |
-| Responsive | ...   |
-| Adaptive  | ...      |
-| Transparent   | ... |
-| Ubiquitous  | ...      |
-| Intelligent  | ... |
+|:---------------|:---------------------|
+| Sensitive      | ...                  |
+| Responsive     | ...                  |
+| Adaptive       | ...                  |
+| Transparent    | ...                  |
+| Ubiquitous     | ...                  |
+| Intelligent    | ...                  |
 
-###### [](#header-6)AmI features @aleksave55
-Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
-Some features may be more important than others, this is normal and depends on the project.
-It is also acceptable that some features are not developed in your specific project.
-| Feature        | Description          | three |
-|:-------------:------------------|:------|
-| Sensitive           | good swedish fish | nice  |
-| Responsive | good and plenty   | nice  |
-| Adaptive           | good `oreos`      | hmm   |
-| Transparent           | good `zoute` drop | yumm  |
+
   
 ## Open issues
 - [ ] How to understand if a user is in his room or not

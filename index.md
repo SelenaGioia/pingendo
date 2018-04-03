@@ -44,7 +44,7 @@ It is also acceptable that some features are not developed in your specific proj
   
 ## Open issues
 - [ ] @SelenaGioia, add here sw issues
-- [ ] Understand where come from the noise that I have detect in a specific room : inside of this room, from other rooms of                the house (which one?), from the outside of the house.<br>
+- [ ] Understand where  the noise that I have detect in a specific room come from : inside of this room, from other rooms of                the house (which one?), from the outside of the house.<br>
 - [ ] The noise that I have detect in the user room fit his status preference or not.
 - [ ] Do not take into account the short term noise and background noise.
 - [ ] Detect if the door, windows and blinds are open or close.

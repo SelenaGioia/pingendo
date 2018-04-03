@@ -47,6 +47,12 @@ It is also acceptable that some features are not developed in your specific proj
 | ok           | good `zoute` drop | yumm  |
 
 
+ ## Open issues
+- [ ] @Selena, add here sw issues
+- [ ] @Andrea, add here hw issues
+- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] example of incomplete item
+
 # These are justexamples and will be delited before the 6th
 
 ## Welcome to GitHub Pages

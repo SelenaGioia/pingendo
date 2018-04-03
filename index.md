@@ -28,7 +28,12 @@ Interacting
 Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
-Feature | Description
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+Feature - Description
 ------------ | -------------
 Sensitive  | ...
 Responsive | ...
@@ -38,10 +43,10 @@ Ubiquitous | ...
 Intelligent | ...
 
 ## Open issues
-- [ ] @Selena, add here sw issues
-- [ ] @Andrea, add here hw issues
-- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [ ] example of incomplete item
+[ ] @Selena, add here sw issues
+[ ] @Andrea, add here hw issues
+[x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
+[ ] example of incomplete item
 
 
 # These are justexamples and will be delited before the 6th

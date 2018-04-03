@@ -36,7 +36,7 @@ Describe which AmI features are developed by your project. Be synthetic, one/two
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
 | Feature        | Description          | three |
-|:-------------|:------------------|:------|
+|:-------------:------------------|:------|
 | Sensitive           | good swedish fish | nice  |
 | Responsive | good and plenty   | nice  |
 | Adaptive           | good `oreos`      | hmm   |
@@ -55,7 +55,8 @@ It is also acceptable that some features are not developed in your specific proj
 - [ ] How to control tv, stereo and other noisy devices
 
 ## Group members
-| NAME              | EMAIL                       | GITHUB USERNAME |ROLE IN THE PROJECT  |
+
+| NAME              | EMAIL                       | GITHUB USERNAME | ROLE IN THE PROJECT |
 |:------------------|:----------------------------|:----------------|:--------------------|
 | Selena Gioia      | selena.gioia@gmail.com      | @SelenaGioia    |sw designer          |
 | Andrea Caria      | andreamarco.caria@gmail.com | @andreacaria    |physical designer    |

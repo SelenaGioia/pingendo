@@ -44,7 +44,7 @@ It is also acceptable that some features are not developed in your specific proj
 - [ ] Do not take into account the short term noise and background noise.
 - [ ] How to detect if the door, windows and blinds are open or close.
 - [ ] How to control windows, doors, blinds
-- [ ] How to control tv, stereo and other noisy devices
+- [ ] How to control tv, stereo and other devices
 
 ## Group members
 

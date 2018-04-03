@@ -22,6 +22,7 @@ Interacting<br>
 Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
+
 | Feature        | Description          |
 |:---------------|:---------------------|
 | Sensitive      | ...                  |

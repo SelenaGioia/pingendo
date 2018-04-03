@@ -43,14 +43,17 @@ It is also acceptable that some features are not developed in your specific proj
 | Transparent           | good `zoute` drop | yumm  |
   
 ## Open issues
-- [ ] @SelenaGioia, add here sw issues
-- [ ] Understand where  the noise that I have detect in a specific room come from : inside of this room, from other rooms of                the house (which one?), from the outside of the house.<br>
-- [ ] The noise that I have detect in the user room fit his status preference or not.
+- [ ] How to understand if a user is in his room or not
+- [ ] How to create a simple app that allows the user to check statuses
+- [ ] How to connect the software app to the hardware (sensors & output devices)
+- [ ] How to have the system actually reasoning
+- [ ] How to understand where the noise that I have detect in a specific room comes from : inside of this room, from other rooms of                the house (which one?), from the outside of the house.<br>
+- [ ] How to understand if the noise that I have detect in a user room fits his status preference or not.
 - [ ] Do not take into account the short term noise and background noise.
-- [ ] Detect if the door, windows and blinds are open or close.
-- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [ ] example of incomplete item
- ***
+- [ ] How to detect if the door, windows and blinds are open or close.
+- [ ] How to control windows, doors, blinds
+- [ ] How to control tv, stereo and other noisy devices
+
 ## Group members
 | NAME              | EMAIL                       | GITHUB USERNAME |ROLE IN THE PROJECT  |
 |:------------------|:----------------------------|:----------------|:--------------------|

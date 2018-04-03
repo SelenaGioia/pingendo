@@ -60,6 +60,12 @@ It is also acceptable that some features are not developed in your specific proj
 - [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [ ] example of incomplete item
 
+## Group members
+| name              | email                       | github user   |role in project  |
+|:------------------|:----------------------------|:--------------|:----------------|
+| Selena Gioia      | selena.gioia@gmail.com      | @SelenaGioia  |sw designer      |
+| Andrea Caria      | andreamarco.caria@gmail.com | @andreacaria  |physical designer|
+| Aleksa Velickovic | s254814@studenti.polito.it  | @aleksave55   |sw developer     |
 
 # These are justexamples and will be delited before the 6th
 

@@ -23,14 +23,14 @@ Describe which AmI features are developed by your project. Be synthetic, one/two
 Some features may be more important than others, this is normal and depends on the project.
 It is also acceptable that some features are not developed in your specific project.
 
-| Feature        | Description          |
-|:---------------|:---------------------|
-| Sensitive      | ...                  |
-| Responsive     | ...                  |
-| Adaptive       | ...                  |
-| Transparent    | ...                  |
-| Ubiquitous     | ...                  |
-| Intelligent    | ...                  |
+|  Feature       |  Description    |
+|:---------------|:----------------|
+| Sensitive      |   ...           |
+| Responsive     | ...             |
+| Adaptive       |  ...            |
+| Transparent    | ...             |
+| Ubiquitous     | ...             |
+| Intelligent    | ...             |
 
 
   
@@ -44,7 +44,7 @@ It is also acceptable that some features are not developed in your specific proj
 - [ ] Do not take into account the short term noise and background noise.
 - [ ] How to detect if the door, windows and blinds are open or close.
 - [ ] How to control windows, doors, blinds
-- [ ] How to control tv, stereo and other devices
+- [ ] How to control tv, stereo and other noisy devices
 
 ## Group members
 

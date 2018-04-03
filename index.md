@@ -1,6 +1,9 @@
 ## ROOM NOISE DETECTION (RNDS)
 
-# Description
+WILL BE DELITED BEFORE DELIVERY 
+[editor on GitHub](https://github.com/AmI-2018/RNDS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+# Vision
 Sharing a flat with other students can sometimes be difficult: different flatmates can have different schedules, and, furthermore, each person may have his own personal habits. It is not always simple to tell others we cannot perform our tasks because they are being too noisy, especially if we don’t know them well enough: this can be a cause of stress. Our system is designed to solve this issues, making cohabitation easy: it is an intelligence system able to understand and react to users needs, pairing every user demands with the urges of other flatmates.<br>
 The user will be able to interact with the system: he may update his status by either choosing from a list of preset ones (e.g. "Please do not disturb I'm sleeping/studying" or "I'm not home") or personalize his own based on already existing models. The user can also set his preferences for each status (es: decide which is the level of noise that disturbs him, decide if he likes to sleep with light or in the dark, decide if he likes ambient music to cover other eventual noise from others)
 RNDS is designed to sense if the users are in their rooms,and to detect the noisy level in every room and understand where this noise come from. <br>
@@ -15,7 +18,33 @@ Selena Gioia, selena.gioia@gmail.com, SelenaGioia, sw designer <br>
 Andrea Caria, andreamarco.caria@gmail.com, andreacaria, physical designer <br>
 Aleksa Velickovic, s254814@studenti.polito.it, aleksave55, sw developer <br>
 
+## AmI main steps
+Sensing
+Reasoning
+Acting
+Interacting
 
+## AmI features @Aleksa
+Describe which AmI features are developed by your project. Be synthetic, one/two sentences per feature are sufficient.
+Some features may be more important than others, this is normal and depends on the project.
+It is also acceptable that some features are not developed in your specific project.
+Feature | Description
+------------ | -------------
+Sensitive  | ...
+Responsive | ...
+Adaptive | ...
+Transparent | ...
+Ubiquitous | ...
+Intelligent | ...
+
+## Open issues
+- [ ] @Selena, add here sw issues
+- [ ] @Andrea, add here hw issues
+- [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] example of incomplete item
+
+
+# These are justexamples and will be delited before the 6th
 
 ## Welcome to GitHub Pages
 

@@ -50,7 +50,7 @@ It is also acceptable that some features are not developed in your specific proj
 - [ ] Detect if the door, windows and blinds are open or close.
 - [x] example of complete item, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [ ] example of incomplete item
-***
+ ***
 ## Group members
 | NAME              | EMAIL                       | GITHUB USERNAME |ROLE IN THE PROJECT  |
 |:------------------|:----------------------------|:----------------|:--------------------|
